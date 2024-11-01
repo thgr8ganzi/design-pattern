@@ -1,4 +1,4 @@
-package org.example.designpattern.structural.decorator._03_java;
+package org.example.designpattern._02_structural.decorator._03_java;
 
 import jakarta.servlet.http.HttpServletRequestWrapper;
 import jakarta.servlet.http.HttpServletResponseWrapper;

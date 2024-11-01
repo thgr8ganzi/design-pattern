@@ -1,4 +1,4 @@
-package org.example.designpattern.structural.decorator._01_before;
+package org.example.designpattern._02_structural.decorator._01_before;
 
 public class TrimmingCommentService extends CommentService {
     @Override
