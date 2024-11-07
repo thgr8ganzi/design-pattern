@@ -1,8 +1,7 @@
-package org.example.designpattern.structural.proxy._03_java;
+package org.example.designpattern._02_structural.proxy._03_java;
 
-import org.example.designpattern.structural.proxy._02_after.GameService;
-import org.example.designpattern.structural.proxy._02_after.DefaultGameService;
-import org.example.designpattern.structural.proxy._02_after.GameServiceProxy;
+import org.example.designpattern._02_structural.proxy._02_after.GameService;
+import org.example.designpattern._02_structural.proxy._02_after.DefaultGameService;
 
 import java.lang.reflect.Proxy;
 

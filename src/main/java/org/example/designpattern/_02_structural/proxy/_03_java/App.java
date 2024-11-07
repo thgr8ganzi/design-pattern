@@ -1,4 +1,4 @@
-package org.example.designpattern.structural.proxy._03_java;
+package org.example.designpattern._02_structural.proxy._03_java;
 
 import org.springframework.boot.ApplicationRunner;
 import org.springframework.boot.SpringApplication;

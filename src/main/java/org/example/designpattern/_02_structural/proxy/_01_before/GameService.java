@@ -1,4 +1,4 @@
-package org.example.designpattern.structural.proxy._01_before;
+package org.example.designpattern._02_structural.proxy._01_before;
 
 public class GameService {
 

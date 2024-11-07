@@ -1,4 +1,4 @@
-package org.example.designpattern.structural.proxy._02_after;
+package org.example.designpattern._02_structural.proxy._02_after;
 
 public class DefaultGameService implements GameService {
 

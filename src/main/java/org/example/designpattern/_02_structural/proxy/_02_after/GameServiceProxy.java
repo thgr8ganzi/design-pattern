@@ -1,6 +1,4 @@
-package org.example.designpattern.structural.proxy._02_after;
-
-import org.example.designpattern.structural.proxy._02_after.GameService;
+package org.example.designpattern._02_structural.proxy._02_after;
 
 public class GameServiceProxy implements GameService {
     private GameService gameService;

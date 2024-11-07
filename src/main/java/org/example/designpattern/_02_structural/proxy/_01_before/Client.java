@@ -1,6 +1,4 @@
-package org.example.designpattern.structural.proxy._01_before;
-
-import org.example.designpattern.structural.proxy._02_after.GameServiceProxy;
+package org.example.designpattern._02_structural.proxy._01_before;
 
 public class Client {
     public static void main(String[] args) throws InterruptedException {
