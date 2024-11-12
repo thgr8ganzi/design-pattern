@@ -1,6 +1,6 @@
-package org.example.designpattern.behavioral.chain_of_responsibility._02_after;
+package org.example.designpattern._03_behavioral.chain_of_responsibility._02_after;
 
-import org.example.designpattern.behavioral.chain_of_responsibility._01_before.Request;
+import org.example.designpattern._03_behavioral.chain_of_responsibility._01_before.Request;
 
 public abstract class RequestHandler {
     private RequestHandler nextHandler;

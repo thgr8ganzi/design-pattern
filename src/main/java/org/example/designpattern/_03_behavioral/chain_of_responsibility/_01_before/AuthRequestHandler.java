@@ -1,4 +1,4 @@
-package org.example.designpattern.behavioral.chain_of_responsibility._01_before;
+package org.example.designpattern._03_behavioral.chain_of_responsibility._01_before;
 
 public class AuthRequestHandler extends RequestHandler{
     @Override
