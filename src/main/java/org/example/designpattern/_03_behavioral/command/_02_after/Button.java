@@ -1,7 +1,7 @@
-package org.example.designpattern.behavioral.command._02_after;
+package org.example.designpattern._03_behavioral.command._02_after;
 
-import org.example.designpattern.behavioral.command._01_before.Game;
-import org.example.designpattern.behavioral.command._01_before.Light;
+import org.example.designpattern._03_behavioral.command._01_before.Game;
+import org.example.designpattern._03_behavioral.command._01_before.Light;
 
 import java.util.Stack;
 

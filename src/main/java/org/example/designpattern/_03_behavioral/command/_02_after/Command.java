@@ -1,4 +1,4 @@
-package org.example.designpattern.behavioral.command._02_after;
+package org.example.designpattern._03_behavioral.command._02_after;
 
 public interface Command {
     void execute();

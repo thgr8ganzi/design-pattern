@@ -1,4 +1,4 @@
-package org.example.designpattern.behavioral.command._01_before;
+package org.example.designpattern._03_behavioral.command._01_before;
 
 public class Game {
     private boolean isStarted;

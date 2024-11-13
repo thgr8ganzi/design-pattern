@@ -1,13 +1,12 @@
-package org.example.designpattern.behavioral.command._03_java;
+package org.example.designpattern._03_behavioral.command._03_java;
 
-import org.example.designpattern.behavioral.command._02_after.Command;
+import org.example.designpattern._03_behavioral.command._02_after.Command;
 import org.springframework.jdbc.core.simple.SimpleJdbcInsert;
 
 import javax.sql.DataSource;
 import java.time.LocalDateTime;
 import java.util.HashMap;
 import java.util.Map;
-import java.util.Objects;
 
 public class CommandInSpring {
     private DataSource dataSource;
