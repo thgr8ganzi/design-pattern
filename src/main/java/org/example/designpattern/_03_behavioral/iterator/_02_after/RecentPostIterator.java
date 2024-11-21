@@ -1,4 +1,4 @@
-package org.example.designpattern.behavioral.iterator._02_after;
+package org.example.designpattern._03_behavioral.iterator._02_after;
 
 import java.util.Collections;
 import java.util.Iterator;

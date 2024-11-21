@@ -1,6 +1,6 @@
-package org.example.designpattern.behavioral.iterator._03_java;
+package org.example.designpattern._03_behavioral.iterator._03_java;
 
-import org.example.designpattern.behavioral.iterator._02_after.Board;
+import org.example.designpattern._03_behavioral.iterator._02_after.Board;
 
 import javax.xml.namespace.QName;
 import javax.xml.stream.XMLEventReader;

@@ -1,4 +1,4 @@
-package org.example.designpattern.behavioral.iterator._02_after;
+package org.example.designpattern._03_behavioral.iterator._01_before;
 
 import lombok.Data;
 

@@ -1,4 +1,4 @@
-package org.example.designpattern.behavioral.iterator._03_java;
+package org.example.designpattern._03_behavioral.iterator._03_java;
 
 import org.springframework.util.CompositeIterator;
 
