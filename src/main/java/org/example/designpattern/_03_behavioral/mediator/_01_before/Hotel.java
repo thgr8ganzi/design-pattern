@@ -1,4 +1,4 @@
-package org.example.designpattern.behavioral.mediator._01_before;
+package org.example.designpattern._03_behavioral.mediator._01_before;
 
 public class Hotel {
     public static void main(String[] args) {

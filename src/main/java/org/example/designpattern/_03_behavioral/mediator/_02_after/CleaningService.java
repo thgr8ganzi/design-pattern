@@ -1,4 +1,4 @@
-package org.example.designpattern.behavioral.mediator._02_after;
+package org.example.designpattern._03_behavioral.mediator._02_after;
 
 public class CleaningService {
     private FrontDesk frontDesk = new FrontDesk();

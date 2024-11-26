@@ -1,4 +1,4 @@
-package org.example.designpattern.behavioral.mediator._03_java;
+package org.example.designpattern._03_behavioral.mediator._03_java;
 
 import org.springframework.web.servlet.DispatcherServlet;
 
